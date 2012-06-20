@@ -1,2 +1,1 @@
-nymote-org-www
-==============
+Website for nymote v0.1
