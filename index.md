@@ -51,7 +51,7 @@ We need to clean up the themes, make theme usage guides with theme-specific mark
      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="http://nymote.us5.list-manage.com/subscribe/post?u=8a83b2d5453bba2ee5838b4ad&amp;id=a41245094c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+<form action="http://nymote.us5.list-manage.com/subscribe/post?u=8a83b2d5453bba2ee5838b4ad&amp;id=a41245094c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" />
   <label for="mce-EMAIL">Signup to hear about updates</label>
   <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
   <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
