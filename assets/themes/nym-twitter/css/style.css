@@ -142,6 +142,11 @@ li.prev {
   font-size: 13px;
 }
 
+.hero-unit {
+  background-color: #f5f4ee;
+  margin-bottom: 0px;
+  padding: 0px 60px 0px 60px;
+}
 
 .lead {
   margin-bottom: 18px;
