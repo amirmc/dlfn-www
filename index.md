@@ -5,6 +5,8 @@ tagline: Your personal home on the Internet
 ---
 {% include JB/setup %}
 
-# Nymote: Your personal home on the Internet
+## Nymote: Your personal home on the Internet
 
-# Coming soon...
+-------
+
+## Coming soon...
