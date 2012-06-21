@@ -1,7 +1,7 @@
 /* Override some defaults */
 
 html, body {
-  background-color: #f5f4ee;
+  background-color: #ffffff;
 }
 
 html {
@@ -143,7 +143,7 @@ li.prev {
 }
 
 .hero-unit {
-  background-color: #f5f4ee;
+  background-color: #ffffff;
   margin-bottom: 0px;
   padding: 0px 60px 0px 60px;
 }
@@ -192,7 +192,7 @@ li.prev {
 
 /* The white background content wrapper */
 .content {
-  background-color: #f5f4ee;
+  background-color: #ffffff;
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
   -webkit-border-radius: 0 0 6px 6px;
