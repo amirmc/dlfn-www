@@ -1,1 +1,1 @@
-Website for nymote v0.1
+Website for digital life foundation v0.2
